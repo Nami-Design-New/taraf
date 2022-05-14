@@ -3,7 +3,7 @@
     <g id="Group_43" data-name="Group 43" transform="translate(-222.485 -67.725)">
       <rect id="Rectangle_113" data-name="Rectangle 113" width="94.644" height="1.803" transform="translate(805.32 327.084)" fill="#ccc"/>
       <rect id="Rectangle_114" data-name="Rectangle 114" width="300.158" height="1.803" transform="translate(431.249 327.084)" fill="#ccc"/>
-      <circle id="Ellipse_115" data-name="Ellipse 115" cx="36.956" cy="36.956" r="36.956" transform="translate(394.293 291.029)" fill="#145e4e"/>
+      <circle id="Ellipse_115" data-name="Ellipse 115" cx="36.956" cy="36.956" r="36.956" transform="translate(394.293 291.029)" fill="#79254a"/>
       <circle id="Ellipse_116" data-name="Ellipse 116" cx="36.956" cy="36.956" r="36.956" transform="translate(562.85 291.029)" fill="#3f3d56"/>
       <path id="Path_748-564" data-name="Path 748" d="M873,259.344a37.858,37.858,0,1,1,37.858-37.858A37.858,37.858,0,0,1,873,259.344Zm0-73.913a36.055,36.055,0,1,0,36.055,36.055A36.055,36.055,0,0,0,873,185.431Z" transform="translate(-104.641 106.5)" fill="#ccc"/>
       <path id="Path_749-565" data-name="Path 749" d="M1060,259.344a37.858,37.858,0,1,1,37.858-37.858A37.858,37.858,0,0,1,1060,259.344Zm0-73.913a36.055,36.055,0,1,0,36.055,36.055A36.055,36.055,0,0,0,1060,185.431Z" transform="translate(-123.084 106.5)" fill="#ccc"/>
@@ -33,7 +33,7 @@
       <path id="Path_140-583" data-name="Path 140" d="M690.369,578.466a3.969,3.969,0,1,0,0,7.938h80.513a3.969,3.969,0,1,0,0-7.938Z" transform="translate(-99.78 -168.533)" fill="#e6e6e6"/>
       <g id="Group_45" data-name="Group 45">
         <circle id="Ellipse_18" data-name="Ellipse 18" cx="23.814" cy="23.814" r="23.814" transform="translate(512 378)" fill="#e6e6e6"/>
-        <path id="Path_395-2-584" data-name="Path 395" d="M306.53,242.049a3.689,3.689,0,0,1-2.219-.738l-.04-.03-8.358-6.394a3.714,3.714,0,0,1,4.52-5.9l5.414,4.151,12.793-16.69a3.713,3.713,0,0,1,5.205-.688h0l-.079.11.082-.11a3.717,3.717,0,0,1,.687,5.206L309.488,240.6a3.715,3.715,0,0,1-2.954,1.448Z" transform="translate(225.541 173)" fill="#145e4e"/>
+        <path id="Path_395-2-584" data-name="Path 395" d="M306.53,242.049a3.689,3.689,0,0,1-2.219-.738l-.04-.03-8.358-6.394a3.714,3.714,0,0,1,4.52-5.9l5.414,4.151,12.793-16.69a3.713,3.713,0,0,1,5.205-.688h0l-.079.11.082-.11a3.717,3.717,0,0,1,.687,5.206L309.488,240.6a3.715,3.715,0,0,1-2.954,1.448Z" transform="translate(225.541 173)" fill="#79254a"/>
       </g>
     </g>
   </g>

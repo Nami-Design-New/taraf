@@ -1,5 +1,5 @@
-$mainColor: #145e4e;
-$secondColor: #f5f4de;
+$mainColor: #79254a;
+$secondColor: #E7EBC4;
 $gold: #ffd700;
 $white-color: #ffffff;
 $black-color: #292929;
@@ -207,7 +207,7 @@ span.select2.select2-container.select2-container--default {
   }
 
   &:focus {
-    box-shadow: 0 0 0 0.25rem #145e4e30;
+    box-shadow: 0 0 0 0.25rem #79254a30;
   }
 }
 
@@ -821,7 +821,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(1) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/f1.webp);
           }
         }
@@ -830,7 +830,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(2) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/f2.webp);
           }
         }
@@ -839,7 +839,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(3) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/f3.webp);
           }
         }
@@ -848,7 +848,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(4) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/f1.webp);
           }
         }
@@ -1503,7 +1503,7 @@ span.select2.select2-container.select2-container--default {
   padding: 100px 30px 120px;
   transition: $transition;
   margin-bottom: 20px;
-  background-image: linear-gradient(45deg, #145e4ed5, #535e14a5), url(../img/s2.webp);
+  background-image: linear-gradient(45deg, #79254ad5, #535e14a5), url(../img/s2.webp);
   background-size: cover;
   background-attachment: fixed;
   animation: sky 100s infinite;
@@ -2582,7 +2582,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(1) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/f2.webp);
           }
         }
@@ -2591,7 +2591,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(2) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/f1.webp);
           }
         }
@@ -2600,7 +2600,7 @@ span.select2.select2-container.select2-container--default {
       &:nth-child(3) {
         .info {
           &::after {
-            background-image: linear-gradient(60deg, #5d79d2d5, #145e4ed5),
+            background-image: linear-gradient(60deg, #5d79d2d5, #79254ad5),
               url(../img/worker.webp);
           }
         }

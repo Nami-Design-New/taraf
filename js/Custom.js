@@ -76,7 +76,7 @@ $(document).ready(function () {
   }
   // test toster
   // setInterval(function doThisEveryOneSeconds() {
-  //   toastr.error(" مرحبا بك في روافد نجد ");
+  //   toastr.error(" مرحبا بك في ترف ");
   // }, 1000);
   // wow
   // const section = $('section');
